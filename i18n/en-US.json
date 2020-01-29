@@ -1,0 +1,13 @@
+{
+    "currentLocation" :"Latitude: {lat}, Longitude {long}",
+    "welcome":"Welcome to Weather App",
+    "city":"City",
+    "searchCity": "Location {search}",
+    "search":"Search",
+    "temp": "Temp : {temp} ˚C",
+    "humidity":"Humidity {humidity}",
+    "pressure":"Pressure {pressure}",
+    "seaLevel":"Sea Level {seaLevel}",
+    "lastUpdate":"Last Update : {lastUpdate}",
+    "country": "Country {country}"
+}
